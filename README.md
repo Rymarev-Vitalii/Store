@@ -1,4 +1,4 @@
 # Store
-Установка
-  npm i
-  npm run devserver
+Установка:
+  -npm i
+  -npm run devserver
